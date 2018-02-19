@@ -1,0 +1,13 @@
+
+
+Answer for Q1:
+
+
+3.0 2 3{'Iris-setosa': 50}
+1.8 4 5
+5.0 6 7
+1.7 8 9{'Iris-versicolor': 47}{'Iris-virginica': 1}
+1.6 10 11{'Iris-virginica': 3}
+7.2 12 13{'Iris-versicolor': 2}{'Iris-virginica': 1}
+4.9 14 15
+6.0 16 17{'Iris-versicolor': 1}{'Iris-virginica': 2}{'Iris-virginica': 43}
